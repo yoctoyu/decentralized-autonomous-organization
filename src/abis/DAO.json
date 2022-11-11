@@ -22022,10 +22022,16 @@
       "links": {},
       "address": "0x66251D544272B456319541913F202f4a66aF20aE",
       "transactionHash": "0x5d892ad6624219028a6e92cb2bfcd8e9c3f0359676dc53dbdc4c9e72d281da66"
+    },
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x8EBd39F4e05E9022e06c18bEE61695Dd5e9cd70a",
+      "transactionHash": "0xb6df8d38c7dbb07df188a51fbd12b27c22f704c70a785a5a698ce31178071416"
     }
   },
   "schemaVersion": "3.4.10",
-  "updatedAt": "2022-11-09T20:43:04.403Z",
+  "updatedAt": "2022-11-11T16:10:34.179Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
